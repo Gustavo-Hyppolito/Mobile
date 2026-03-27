@@ -12,6 +12,10 @@ export function EstruturaJSX () {
                     // Exemplo SelfClose
                     <View/>
                 </>
+                return ( 
+                    <Text>Olá, Aluno!</Text> 
+                    <Text>Bem-vindo à aula.</Text> 
+                    );
             </View>
         </View>
     )
