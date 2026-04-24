@@ -1,10 +1,10 @@
 import { StyleSheet, Text, View } from 'react-native';
-import Exercicio12 from './somativa/layout';
+import TelaMoeda from './hooks/UseEffect';
 
 export default function App() {
   return (
     <View style={styles.container}>
-      <Exercicio12/>
+      <TelaMoeda/>
     </View>
   );
 }
